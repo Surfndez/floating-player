@@ -1,0 +1,264 @@
+{
+    "description": {
+        "message": "在你浏览互联网同时观看视频。配合 YouTube™, Twitch.tv 和其它工作。"
+    },
+    "open_in_popup": {
+        "message": "在弹窗中打开链接"
+    },
+    "options": {
+        "message": "选项"
+    },
+    "align": {
+        "message": "对齐"
+    },
+    "top_left": {
+        "message": "左上"
+    },
+    "top_right": {
+        "message": "右上"
+    },
+    "bottom_left": {
+        "message": "左下"
+    },
+    "bottom_right": {
+        "message": "右下"
+    },
+    "top_center": {
+        "message": "顶中"
+    },
+    "bottom_center": {
+        "message": "底中"
+    },
+    "left_center": {
+        "message": "左中"
+    },
+    "right_center": {
+        "message": "右中"
+    },
+    "center": {
+        "message": "中央"
+    },
+    "size": {
+        "message": "大小"
+    },
+    "recommended": {
+        "message": "推荐"
+    },
+    "horizontal_margin": {
+        "message": "水平边距"
+    },
+    "vertical_margin": {
+        "message": "垂直边距"
+    },
+    "color": {
+        "message": "在 YouTube 播放器的视频进度条中的颜色"
+    },
+    "red": {
+        "message": "红"
+    },
+    "white": {
+        "message": "白"
+    },
+    "speed": {
+        "message": "YouTube 视频的回放速度*"
+    },
+    "normal": {
+        "message": "普通"
+    },
+    "quality": {
+        "message": "YouTube 视频的质量*"
+    },
+    "title": {
+        "message": "YouTube 视频的标题*"
+    },
+    "volume": {
+        "message": "YouTube 视频的音量*"
+    },
+    "native_pip": {
+        "message": "若可以则使用原生画中画"
+    },
+    "embed": {
+        "message": "若可以则嵌入视频"
+    },
+    "autoplay": {
+        "message": "自动播放嵌入视频"
+    },
+    "chat": {
+        "message": "显示 YouTube 和 Twitch 直播流媒体的聊天"
+    },
+    "force_fullscreen": {
+        "message": "强制全屏(按 F11 退出)"
+    },
+    "close_tab": {
+        "message": "当创建新弹窗时关闭当前标签页"
+    },
+    "no_cookie": {
+        "message": "使用 youtube-nocookie.com 时启用隐私增强模式"
+    },
+    "captions": {
+        "message": "在 YouTube 视频上显示标题"
+    },
+    "annotations": {
+        "message": "在 YouTube 视频上显示评注"
+    },
+    "related": {
+        "message": "显示 YouTube 上的相关视频"
+    },
+    "controls": {
+        "message": "在 YouTube 视频上显示播放器控制"
+    },
+    "show_info": {
+        "message": "在 YouTube 视频上显示标题"
+    },
+    "fullscreen_button": {
+        "message": "在 YouTube 视频上显示全屏按钮"
+    },
+    "yt_logo": {
+        "message": "显示 YouTube 徽标让你在新标签页中打开视频"
+    },
+    "keyboard": {
+        "message": "允许用键盘控制 YouTube 播放器"
+    },
+    "noclick": {
+        "message": "拦截 YouTube 视频上的鼠标事件*"
+    },
+    "loop": {
+        "message": "循环 YouTube 视频和播放列表"
+    },
+    "proportion": {
+        "message": "使用正确的宽高比打开 YouTube 视频"
+    },
+    "youtube_api": {
+        "message": "使用 YouTube API 修复播放列表的标题并说明视频不能嵌入的时候"
+    },
+    "animate_title": {
+        "message": "YouTube 视频的动态弹窗标题*"
+    },
+    "shuffle": {
+        "message": "随机播放 YouTube 播放列表*"
+    },
+    "pause": {
+        "message": "暂停视频并从你离开的位置继续"
+    },
+    "spoof_referrer": {
+        "message": "Spoof Referrer 报头可以嵌入特定视频"
+    },
+    "youtube_tv_on_error": {
+        "message": "如果视频不能嵌入则在 YouTube TV 上播放*"
+    },
+    "force_youtube_tv": {
+        "message": "使用 YouTube TV 于所有 YouTube 视频(不推荐)"
+    },
+    "fix_popup": {
+        "message": "修复在某些系统上的弹窗宽度和高度问题"
+    },
+    "app": {
+        "message": "在 Chrome OS 上使用附加组件打开弹窗"
+    },
+    "borderless": {
+        "message": "在 Chrome OS 上移除边框和标题栏(使用附加组件)"
+    },
+    "always_on_top": {
+        "message": "在 Chrome OS 上保持弹窗置顶(使用附加组件)"
+    },
+    "helium": {
+        "message": "Open video with Helium on macOS"
+    },
+    "helium_pin_tab": {
+        "message": "Pin temporary tab before opening Helium"
+    },
+    "helium_version": {
+        "message": "Helium app"
+    },
+    "keep_popup": {
+        "message": "Keep current popup instead of opening a new one"
+    },
+    "keep_dimensions": {
+        "message": "Keep position and current dimensions of popup when changing video"
+    },
+    "use_context": {
+        "message": "Use context menu"
+    },
+    "enable_history": {
+        "message": "Enable history"
+    },
+    "requires_api": {
+        "message": "* Requires YouTube API"
+    },
+    "default": {
+        "message": "Restore default settings"
+    },
+    "source_code": {
+        "message": "Source code"
+    },
+    "instructions": {
+        "message": "Instructions"
+    },
+    "history": {
+        "message": "History"
+    },
+    "u_sure": {
+        "message": "Are you sure?"
+    },
+    "cannot_play": {
+        "message": "Cannot embed video. Play it on YouTube?"
+    },
+    "addon_not_installed": {
+        "message": "Addon is not installed"
+    },
+    "addon_enabled": {
+        "message": "Addon has been successfully activated"
+    },
+    "addon_disabled": {
+        "message": "Addon has been successfully deactivated"
+    },
+    "permission_not_granted": {
+        "message": "Permission was not granted"
+    },
+
+
+    "clear_history": {
+        "message": "Clear history"
+    },
+    "history_empty": {
+        "message": "History is empty"
+    },
+    "history_disabled": {
+        "message": "History is disabled"
+    },
+
+
+    "instructions_click_icon": {
+        "message": "Open the desired page and click the extension icon on the top right corner of the browser:"
+    },
+    "instructions_right_click": {
+        "message": "Or right click the link of some video:"
+    },
+    "instructions_windows": {
+        "message": "In order to keep the popup on top of other windows, you need to install a third-party application, since Windows doesn't have this feature by default."
+    },
+    "instructions_windows2": {
+        "message": "Download {DeskPins}. Once installed, open the app and click the icon in the system tray. Your cursor will turn into a pin. Then click the popup to make it always on top:"
+    },
+    "instructions_linux": {
+        "message": "Right click the title of the popup, then \"Always on top\":"
+    },
+    "instructions_macos": {
+        "message": "In order to keep the popup on top of other windows, you need to install a third-party application, since macOS doesn't have this feature by default."
+    },
+    "instructions_macos2": {
+        "message": "Download {Helium}. Once installed, go to the options page (see below) and check \"Open video with Helium on macOS\"."
+    },
+    "instructions_chromeos": {
+        "message": "In order to keep the popup on top of other windows, you need to install an add-on, since Chrome OS doesn't have this feature by default."
+    },
+    "addon": {
+        "message": "app for Chrome OS"
+    },
+    "instructions_chromeos2": {
+        "message": "Download the {addon}. Once installed, go to the options page (see below) and check \"Open popup using addon on Chrome OS\"."
+    },
+    "instructions_options": {
+        "message": "You can set the popup width and height besides other settings on the options page. To access it, right click the extension icon:"
+    }
+}
