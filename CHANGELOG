@@ -1,3 +1,7 @@
+3.8 - 2018/10/25
+- The instructions won't be shown if using Chrome 70+
+- Moved option "Use native Picture-in-Picture[...]" to the top
+
 3.7 - 2018/08/27
 - Added option "Use native Picture-in-Picture if possible"
 
