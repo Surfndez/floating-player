@@ -75,7 +75,7 @@
         "message": "Volume para os vídeos do YouTube*"
     },
     "native_pip": {
-        "message": "Usar Picture-in-Picture nativo se possível"
+        "message": "Usar Picture-in-Picture nativo se possível (Obs.: Se habilitado, as opções seguintes não irão funcionar)"
     },
     "embed": {
         "message": "Incorporar vídeo se possível"
