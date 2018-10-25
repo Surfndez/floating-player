@@ -5,7 +5,11 @@ if (options.context) {
 // 1st time
 if (!localStorage.getItem('installed')) {
     localStorage.setItem('installed', Date.now());
-    showInstructions();
+
+    // Don't show instructions if native player works
+    if (!document.pictureInPictureEnabled) {
+        showInstructions();
+    }
 }
 
 setBrowserAction();
